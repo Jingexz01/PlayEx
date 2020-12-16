@@ -1,5 +1,5 @@
-# Zhycorp Music Bot
-> A dedicated open-source music bot for Zhycorp based on [Jukebox](https://github.com/Hazmi35/jukebox).
+# PlayEx Music Bot
+> A dedicated open-source music bot based on [Jukebox](https://github.com/Hazmi35/jukebox).
 
 <a href="https://discord.gg/DxenCeV"><img src="https://img.shields.io/discord/332877090003091456?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
 <a href="https://discord.com/oauth2/authorize?client_id=690736793682968576&permissions=53857345&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Disc%2011%230606&plastic&color=7289DA&logo=discord"></a>
@@ -11,7 +11,7 @@
 
 **Requires [Node.JS](https://nodejs.org) version v12 or above.**
 
-[Come here](https://github.com/zhycorp/disc-11#Glitch) if you want to use Glitch.com instead of localhost or [Heroku](https://heroku.com/deploy?template=https://github.com/zhycorp/disc-11/tree/master)
+[Come here](https://github.com/zhycorp/disc-11#Glitch) if you want to use Glitch.com instead of localhost or [Heroku](https://heroku.com/deploy?template=https://github.com/Jingexz01/PlayEx/tree/master)
 
 1. Install [Node.JS](https://nodejs.org) and [Yarn (Optional)](https://yarnpkg.com)
 2. Rename `.env.schema` to `.env` and fill out the values (example on .env.example)
